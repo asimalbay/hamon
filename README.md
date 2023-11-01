@@ -4,9 +4,9 @@ This is our first collabrative programming project.
 
 The group member are as follows:
 
-|Name│e-mail│
-│----│------│
-│Asım│asimcanalbayy@gmail.com| 
+|Name|e-mail|
+|----|------|
+|Asım|asimcanalbayy@gmail.com|
 
 ## Installation
 
